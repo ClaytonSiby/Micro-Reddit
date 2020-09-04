@@ -173,6 +173,9 @@ GEM
       thread_safe (~> 0.1)
     tzinfo-data (1.2020.1)
       tzinfo (>= 1.0.0)
+    valid_email2 (3.3.1)
+      activemodel (>= 3.2)
+      mail (~> 2.5)
     web-console (4.0.4)
       actionview (>= 6.0.0)
       activemodel (>= 6.0.0)
@@ -210,6 +213,7 @@ DEPENDENCIES
   sqlite3 (~> 1.4)
   turbolinks (~> 5)
   tzinfo-data
+  valid_email2
   web-console (>= 3.3.0)
   webdrivers
   webpacker (~> 4.0)
