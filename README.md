@@ -49,7 +49,8 @@ Next we need to install dependencies and setup the database.
 
 3. Rails Console:
 Check that the console is working properly by running $ rails console in your terminal. 
- 
+Run association tests in console to test for model connections.
+
 
 ## 🔨 Setup <a name = "setup"></a>
 
